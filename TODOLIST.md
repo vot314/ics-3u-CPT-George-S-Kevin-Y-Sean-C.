@@ -1,15 +1,15 @@
 # ics-3u-CPT-George-S-Kevin-Y-Sean-C.
 
 **To Do List:**
-Main menu screen
+**Main menu screen**
   
   Layout, buttons, and tutorial
   
   Map building
   
-  Shop
+**Shop**
   
-Tower upgrading
+**Tower upgrading**
 
   Hovering over a tower displays a prompt where left click = upgrade
   
@@ -19,7 +19,7 @@ Tower upgrading
   
   Find wrench and $ sprites to display in place of the cursor
   
-Tower mechanics
+**Tower mechanics**
   
   [DONE] Placing
   
@@ -27,7 +27,7 @@ Tower mechanics
   
   Supporting
   
-Enemies
+**Enemies**
   
   Pathfinding [IN PROGRESS]
   
@@ -37,5 +37,5 @@ Enemies
   
   Deal damage to nearby player towers
   
-Wave system
-Money & Resources
+**Wave system**
+**Money & Resources**
