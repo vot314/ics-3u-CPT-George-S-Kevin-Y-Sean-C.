@@ -9,8 +9,8 @@ This program allows the user to place towers. When selecting a
 - The grid is made up of 20 x 20 pixel squares
 - Left click to place
 - WIDTH and HEIGHT should preferably both be multiples of 20
-- towerSize controls the size of the towers (we have the largest tower
-    to be 3x3 tiles, so no larger than that otherwise it will not work)
+- towerSize controls the size of the towers (any POSITIVE integer 
+    value will work). All shapes are n x n squares (no rectangles)
 '''
 
 import pygame
